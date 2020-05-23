@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14346244" name="SyncType">
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14361700" name="SyncType">
     <sch:name>SyncType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>

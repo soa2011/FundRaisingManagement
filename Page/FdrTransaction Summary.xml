@@ -228,7 +228,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>Quantity</sch:name>
+            <sch:name>CurrencyId</sch:name>
             <sch:seqNumber>150</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -236,7 +236,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>Quantity</sch:label>
+            <sch:label>CurrencyId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
