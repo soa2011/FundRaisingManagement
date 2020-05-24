@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< HEAD
 <sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="ErrorType">
+=======
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14343732" name="ErrorType">
+>>>>>>> 5e6a943d6dd85647c975be76adc86656e3ed3b53
     <sch:name>ErrorType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>

@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< HEAD
 <sch:ObjectType xmlns:sch="http://aiaf.com/schemas" name="FdrCampaign">
+=======
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14343372" name="FdrCampaign">
+>>>>>>> 5e6a943d6dd85647c975be76adc86656e3ed3b53
     <sch:name>FdrCampaign</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
