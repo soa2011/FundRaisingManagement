@@ -120,7 +120,7 @@
             <sch:tableName>FdrTransaction</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>2600</sch:seqIndex>
-            <sch:format>%s %s</sch:format>
+            <sch:format>%s</sch:format>
             <sch:columns>Oid</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
