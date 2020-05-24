@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<<<<<<< HEAD
 <sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="ProductProviderPaymentAccType">
-=======
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14343744" name="ProductProviderPaymentAccType">
->>>>>>> 5e6a943d6dd85647c975be76adc86656e3ed3b53
     <sch:name>ProductProviderPaymentAccType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
