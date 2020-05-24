@@ -99,7 +99,7 @@
             <sch:type>Item</sch:type>
             <sch:seqIndex>2500</sch:seqIndex>
             <sch:format>%s</sch:format>
-            <sch:columns>DocNum</sch:columns>
+            <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
@@ -121,7 +121,7 @@
             <sch:type>Item</sch:type>
             <sch:seqIndex>2600</sch:seqIndex>
             <sch:format>%s %s</sch:format>
-            <sch:columns>EventType,EventTime</sch:columns>
+            <sch:columns>Oid</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>

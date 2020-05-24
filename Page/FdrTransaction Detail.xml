@@ -397,8 +397,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>10</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -447,8 +447,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -497,8 +497,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -647,8 +647,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>10</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -697,8 +697,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -747,8 +747,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -797,8 +797,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -847,8 +847,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -897,8 +897,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>
@@ -947,8 +947,8 @@
             <sch:relatedRules></sch:relatedRules>
             <sch:helpText></sch:helpText>
             <sch:help></sch:help>
-            <sch:width>60</sch:width>
-            <sch:height>2</sch:height>
+            <sch:width>0</sch:width>
+            <sch:height>0</sch:height>
             <sch:rowSpan>1</sch:rowSpan>
             <sch:colSpan>1</sch:colSpan>
             <sch:sortable>false</sch:sortable>

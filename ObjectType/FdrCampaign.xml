@@ -76,11 +76,11 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>Discount</sch:name>
-            <sch:dataType>Decimal</sch:dataType>
+            <sch:name>Name</sch:name>
+            <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>10</sch:length>
-            <sch:scale>2</sch:scale>
+            <sch:length>128</sch:length>
+            <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
