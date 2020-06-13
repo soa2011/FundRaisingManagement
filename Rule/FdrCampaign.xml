@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:Rule xmlns:sch="http://aiaf.com/schemas" name="FdrCampaign">
+<sch:Rule xmlns:sch="http://Baf.com/schemas" name="FdrCampaign">
     <sch:name>FdrCampaign</sch:name>
     <sch:tableName>FdrCampaign</sch:tableName>
     <sch:referenceName></sch:referenceName>
