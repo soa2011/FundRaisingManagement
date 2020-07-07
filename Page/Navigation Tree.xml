@@ -76,8 +76,8 @@
             <sch:tableName>FdrMember</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>2003</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
+            <sch:format>%s %s</sch:format>
+            <sch:columns>FirstName,LastName</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
