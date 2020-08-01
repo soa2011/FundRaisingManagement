@@ -3,7 +3,7 @@
     <sch:name>FdrMember</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
-    <sch:parentTypeName></sch:parentTypeName>
+    <sch:parentTypeName>FundRaisingManagement</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>
@@ -167,7 +167,7 @@
             <sch:name>Profile</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>100</sch:length>
+            <sch:length>1024</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
