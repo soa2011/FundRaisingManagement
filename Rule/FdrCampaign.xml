@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Rule xmlns:sch="http://Baf.com/schemas" name="FdrCampaign">
     <sch:name>FdrCampaign</sch:name>
-    <sch:tableName>FdrCampaign</sch:tableName>
+    <sch:objectTypeName>FdrCampaign</sch:objectTypeName>
     <sch:referenceName></sch:referenceName>
-    <sch:referenceNumber></sch:referenceNumber>
+    <sch:fieldName></sch:fieldName>
     <sch:ruleType>OnChange</sch:ruleType>
     <sch:ruleCode></sch:ruleCode>
-    <sch:ruleLanguage>Groovy</sch:ruleLanguage>
+    <sch:ruleLanguage></sch:ruleLanguage>
     <sch:ruleBody>// context.get("Quantity") > 0</sch:ruleBody>
     <sch:seqNumber>1</sch:seqNumber>
+    <sch:description></sch:description>
 </sch:Rule>

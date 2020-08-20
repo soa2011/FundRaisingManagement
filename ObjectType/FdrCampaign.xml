@@ -203,4 +203,18 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
     </sch:bmfFields>
+    <sch:bmfRules>
+        <sch:BmfRule>
+            <sch:name>FdrCampaign</sch:name>
+            <sch:objectTypeName>FdrCampaign</sch:objectTypeName>
+            <sch:referenceName></sch:referenceName>
+            <sch:fieldName></sch:fieldName>
+            <sch:ruleType>OnChange</sch:ruleType>
+            <sch:ruleCode></sch:ruleCode>
+            <sch:ruleLanguage></sch:ruleLanguage>
+            <sch:ruleBody>// context.get("Quantity") > 0</sch:ruleBody>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:description></sch:description>
+        </sch:BmfRule>
+    </sch:bmfRules>
 </sch:ObjectType>

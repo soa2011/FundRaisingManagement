@@ -127,7 +127,7 @@
             <sch:name>Ein</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>64</sch:length>
+            <sch:length>512</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
@@ -320,4 +320,5 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
     </sch:bmfFields>
+    <sch:bmfRules/>
 </sch:ObjectType>
