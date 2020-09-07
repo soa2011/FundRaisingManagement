@@ -88,7 +88,7 @@
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Type</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
-            <sch:domainName>RewardType</sch:domainName>
+            <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
             <sch:dependency></sch:dependency>
             <sch:defaultValue></sch:defaultValue>
@@ -126,7 +126,6 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfDomain isRef="true">RewardType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Status</sch:name>

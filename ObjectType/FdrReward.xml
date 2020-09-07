@@ -14,7 +14,7 @@
         <sch:BmfObjectField>
             <sch:name>Name</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName></sch:enumName>
+            <sch:enumName>CampaignStatus</sch:enumName>
             <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -28,7 +28,7 @@
         <sch:BmfObjectField>
             <sch:name>Type</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>RewardType</sch:enumName>
+            <sch:enumName></sch:enumName>
             <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -42,7 +42,7 @@
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>CampaignStatus</sch:enumName>
+            <sch:enumName></sch:enumName>
             <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -154,7 +154,7 @@
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
             <sch:dataType>DateTime</sch:dataType>
-            <sch:enumName></sch:enumName>
+            <sch:enumName>RewardType</sch:enumName>
             <sch:length></sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>

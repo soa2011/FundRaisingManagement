@@ -42,7 +42,7 @@
         <sch:BmfObjectField>
             <sch:name>StartDate</sch:name>
             <sch:dataType>Date</sch:dataType>
-            <sch:enumName></sch:enumName>
+            <sch:enumName>YesNo</sch:enumName>
             <sch:length></sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -56,7 +56,7 @@
         <sch:BmfObjectField>
             <sch:name>EndDate</sch:name>
             <sch:dataType>Date</sch:dataType>
-            <sch:enumName></sch:enumName>
+            <sch:enumName>TagType</sch:enumName>
             <sch:length></sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -70,7 +70,7 @@
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>YesNo</sch:enumName>
+            <sch:enumName></sch:enumName>
             <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -84,7 +84,7 @@
         <sch:BmfObjectField>
             <sch:name>Type</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>TagType</sch:enumName>
+            <sch:enumName></sch:enumName>
             <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>

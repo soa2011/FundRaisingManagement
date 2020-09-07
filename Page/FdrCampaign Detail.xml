@@ -38,7 +38,7 @@
             <sch:refTargetType></sch:refTargetType>
             <sch:label>ID</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
-            <sch:domainName></sch:domainName>
+            <sch:domainName>CampaignStatus</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
             <sch:dependency></sch:dependency>
             <sch:defaultValue></sch:defaultValue>
@@ -76,6 +76,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">CampaignStatus</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Name</sch:name>
@@ -138,7 +139,7 @@
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Status</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
-            <sch:domainName>CampaignStatus</sch:domainName>
+            <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
             <sch:dependency></sch:dependency>
             <sch:defaultValue></sch:defaultValue>
@@ -176,7 +177,6 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfDomain isRef="true">CampaignStatus</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Description</sch:name>
@@ -386,7 +386,7 @@
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
-            <sch:refTargetType></sch:refTargetType>
+            <sch:refTargetType>FdrMember</sch:refTargetType>
             <sch:label>CreatedOn</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
@@ -433,7 +433,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>2400</sch:seqNo>
+            <sch:seqNumber>2400</sch:seqNumber>
             <sch:buttonName>CreatePurchaseReceipt</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

@@ -15,7 +15,7 @@
             <sch:name>OrganizationId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>FdrOrganization</sch:relatedObjectType>
+            <sch:relatedObjectType></sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>

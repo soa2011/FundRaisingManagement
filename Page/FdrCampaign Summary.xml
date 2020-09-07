@@ -432,7 +432,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>2400</sch:seqNo>
+            <sch:seqNumber>2400</sch:seqNumber>
             <sch:buttonName>Post</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
