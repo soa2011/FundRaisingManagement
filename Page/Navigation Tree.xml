@@ -36,7 +36,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -47,7 +46,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -58,7 +56,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -69,7 +66,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -80,7 +76,26 @@
             <sch:columns>TagId</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
+            <sch:description></sch:description>
+        </sch:BmfTreeNode>
+        <sch:BmfTreeNode>
+            <sch:tableName>FdrContact</sch:tableName>
+            <sch:type>Collection</sch:type>
+            <sch:seqIndex>2100</sch:seqIndex>
+            <sch:format>Contacts(%s)</sch:format>
+            <sch:columns>#count</sch:columns>
+            <sch:action></sch:action>
+            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:description></sch:description>
+        </sch:BmfTreeNode>
+        <sch:BmfTreeNode>
+            <sch:tableName>FdrContact</sch:tableName>
+            <sch:type>Item</sch:type>
+            <sch:seqIndex>2200</sch:seqIndex>
+            <sch:format>%s</sch:format>
+            <sch:columns>Oid</sch:columns>
+            <sch:action></sch:action>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -91,7 +106,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -102,7 +116,6 @@
             <sch:columns>FirstName,LastName</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -113,7 +126,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -124,7 +136,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -135,7 +146,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -146,7 +156,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -157,7 +166,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -168,7 +176,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -179,7 +186,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -190,7 +196,6 @@
             <sch:columns>Oid</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -201,7 +206,6 @@
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
@@ -212,7 +216,6 @@
             <sch:columns>Name</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
     </sch:treeNodes>
