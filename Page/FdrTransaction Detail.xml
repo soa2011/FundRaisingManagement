@@ -35,7 +35,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType>FdrCampaign</sch:refTargetType>
+            <sch:refTargetType>FdrMember</sch:refTargetType>
             <sch:label>MemberId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
@@ -86,7 +86,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType>FdrReward</sch:refTargetType>
+            <sch:refTargetType>FdrOrganization</sch:refTargetType>
             <sch:label>OrganizationId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
@@ -137,7 +137,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType>Currency</sch:refTargetType>
+            <sch:refTargetType>FdrCampaign</sch:refTargetType>
             <sch:label>CampaignId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
@@ -188,7 +188,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType></sch:refTargetType>
+            <sch:refTargetType>FdrReward</sch:refTargetType>
             <sch:label>RewardId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
@@ -239,7 +239,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
-            <sch:refTargetType></sch:refTargetType>
+            <sch:refTargetType>Currency</sch:refTargetType>
             <sch:label>CurrencyId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>

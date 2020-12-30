@@ -21,7 +21,7 @@
             <sch:name>MemberId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>FdrCampaign</sch:relatedObjectType>
+            <sch:relatedObjectType>FdrMember</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>
@@ -32,7 +32,7 @@
             <sch:name>OrganizationId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>FdrReward</sch:relatedObjectType>
+            <sch:relatedObjectType>FdrOrganization</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>
@@ -43,7 +43,7 @@
             <sch:name>CampaignId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>Currency</sch:relatedObjectType>
+            <sch:relatedObjectType>FdrCampaign</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>
@@ -54,7 +54,7 @@
             <sch:name>RewardId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType></sch:relatedObjectType>
+            <sch:relatedObjectType>FdrReward</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>
@@ -65,7 +65,7 @@
             <sch:name>CurrencyId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType></sch:relatedObjectType>
+            <sch:relatedObjectType>Currency</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>

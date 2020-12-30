@@ -393,7 +393,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Text</sch:fieldType>
-            <sch:refTargetType>FdrMember</sch:refTargetType>
+            <sch:refTargetType></sch:refTargetType>
             <sch:label>CreatedOn</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
